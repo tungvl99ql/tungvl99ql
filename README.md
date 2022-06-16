@@ -78,6 +78,6 @@ C Sharp
 <br>
 <a href="#" target="_blank">
   <!-- <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" /> -->
-  <h1>Do what you love, and love what you do </h1>
+  <h1 align="center">Do what you love, and love what you do </h1>
 </a>
 
