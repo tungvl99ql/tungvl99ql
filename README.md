@@ -52,9 +52,6 @@ C Sharp
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/icon128.png" alt="tung =))" />
-  </a>
   <a href="https://facebook.com/jackielove99" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tung fb" />
   </a>
